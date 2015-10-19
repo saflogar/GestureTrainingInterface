@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZentuzFW", "ZentuzF\ZentuzFW.csproj", "{3A6F6D51-A8CB-46A3-B242-CCE56D910679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFXMLLog", "ZFXMLLog\ZFXMLLog.csproj", "{7D744CBC-D3F1-4593-B497-5D0214F10183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureTrainInterface", "GestureTrainInterface\GestureTrainInterface.csproj", "{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3A6F6D51-A8CB-46A3-B242-CCE56D910679}.Release|x86.ActiveCfg = Release|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7D744CBC-D3F1-4593-B497-5D0214F10183}.Release|x86.ActiveCfg = Release|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7A4D55DB-0535-49F4-ABE1-C8EEEE3F1FEE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
